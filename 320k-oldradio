@@ -1,0 +1,21 @@
+<!-- BEGIN: HSL RADIO PLAYER SCRIPT MUST STARTS AFTER THIS MESSAGE -->
+<script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
+<script type="text/javascript">
+MRP.insert({
+'url':'https://c2.radioboss.fm:18224/autodj',
+'lang':'en',
+'codec':'mp3',
+'volume':66,
+'autoplay':false,
+'forceHTML5':true,
+'jsevents':true,
+'buffering':0,
+'title':'house station live.',
+'welcome':'enjoylife.',
+'wmode':'transparent',
+'skin':'oldradio',
+'width':205,
+'height':132
+});
+</script>
+<!-- END: HSL RADIO PLAYER SCRIPT MUST STOPS BEFORE THIS MESSAGE -->
